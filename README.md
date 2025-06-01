@@ -1,2 +1,2 @@
 # Medium
-Documentation of the code written in medium
+Code documentation for medium blog
